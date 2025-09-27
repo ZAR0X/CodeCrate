@@ -1,0 +1,259 @@
+{
+  "site": {
+    "title": "TIT CODING_CLUB",
+    "collegeName": "TIT Coding Club",
+    "tagline": "Code. Create. Compete.",
+    "description": "A community where curious minds come together to code, collaborate, and create impactful solutions..",
+    "email": "tit@technocrats.edu",
+    "location": {
+      "venue": "TIT Collage Campus",
+      "building": "Anand Nagar, BHEL Opposite Hathaikheda Dam,",
+      "rooms": "Bhopal, Madhya Pradesh 462021"
+    }
+  },
+  "hero": {
+    "title": "Code. Create. Compete.",
+    "subtitle": "A community where curious minds come together to code, collaborate, and create impactful solutions.",
+    "buttons": [
+      {
+        "text": "Register Now",
+        "type": "primary",
+        "action": "google.com"
+      },
+      {
+        "text": "View Schedule",
+        "type": "secondary",
+        "action": "event"
+      }
+    ],
+    "highlights": [
+    
+    ]
+  },
+  "about": {
+    "title": "About TIT CODING CLUB",
+    "subtitle": "Empowering the next generation of innovators through collaborative technology challenges",
+    "mission": {
+      "title": "Our Mission",
+      "description": [
+        "Our mission is to foster a community of passionate coders who learn, innovate, and collaborate to solve real-world problems through technology."
+      ]
+    },
+    "stats": [
+      {
+        "value": "0+",
+        "label": "Participants",
+        "color": "cyan"
+      },
+      {
+        "value": "0+",
+        "label": "Projects Built",
+        "color": "purple"
+      },
+      {
+        "value": "0+",
+        "label": "Sponsors",
+        "color": "green"
+      },
+      {
+        "value": "0+",
+        "label": "Startups Born",
+        "color": "yellow"
+      }
+    ],
+    "college": {
+      "name": "TIT COLLEGE",
+      "description": [
+        "Founded in 1999, Technocrats Group of Institutions is one of the largest and oldest NBA accredited educational groups in central India."
+      ],
+      "highlight": "Leading in Computer science engineering",
+      "image": "Images/tit.jpeg"
+    }
+  },
+  "faculty": [
+    {
+      "name": "Nishchal kausal",
+      "role": "T&P Head",
+      "image": "Images/nishchalSir.jpg",
+      "description": "Director of T&P Cell"
+    },
+    {
+      "name": "Hemant Vyan",
+      "role": "Club head",
+      "image": "Images/hemantSir.jpg",
+      "description": "Mentor"
+    }
+  ],
+  "team": [
+    {
+      "name": "Aditi",
+      "role": "Organizer",
+      "image": "Images/aditi.jpeg",
+      "description": "4th year student"
+    },
+    {
+      "name": "Adarsh",
+      "role": "Organizer",
+      "image": "Images/adarsh.jpeg",
+      "description": "4th year student"
+    },
+    {
+      "name": "Ram Gour",
+      "role": "Developer",
+      "image": "Images/ram.jpeg",
+      "description": "3rd year student"
+    },
+    {
+      "name": "Ranjay Yadav",
+      "role": "Developer",
+      "image": "Images/ranjay.jpeg",
+      "description": "3rd year student"
+    }
+  ],
+  "testimonials": [
+  ],
+  "event": {
+    "date": "September 28, 2025",
+    "date_string": "2025-9-28",
+    "time": "Sunday 10AM - Sunday 5PM",
+    "schedule": [
+      {
+        "title": "Coding Competition Round - 1",
+        "time": "Sunday 10:00 AM",
+        "event": "coding",
+        "location": "HackerEarth"
+      }
+ 
+    ],
+    "rules": [
+    ],
+    "provides": [
+    ],
+    "prizes": {
+      "totalAmount": "$00+",
+      "categories": [
+    
+        {
+          "title": "tech hecherthon",
+          "amount": "$8,000",
+          "description": "problem solving",
+          "color": "from-cyan-400 to-blue-500"
+        }
+        
+      ],
+      "judgingCriteria": [
+        {
+          "title": "Innovation",
+          "weight": "30%",
+          "description": "Originality and creativity of the solution"
+        },
+        {
+          "title": "Technical",
+          "weight": "30%",
+          "description": "Code quality and technical implementation"
+        },
+        {
+          "title": "Impact",
+          "weight": "25%",
+          "description": "Potential real-world impact and usefulness"
+        },
+        {
+          "title": "Presentation",
+          "weight": "15%",
+          "description": "Quality of demo and pitch"
+        }
+      ]
+    },
+    "elegilible":[
+    ]
+  },
+  "faq": [
+    {
+      "question": "Who can participate?",
+      "answer": "Students of TIT Institute are welcome!"
+    }
+ 
+  ],
+  "gallery": {
+    "filters": [
+      { "id": "all", "label": "All" },
+      { "id": "2025", "label": "2025" }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "type": "image",
+        "src": "Images/tit.jpeg",
+        "title": "Opening Ceremony 2025",
+        "category": "2025",
+        "description": "Participants and Members gathering."
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "src": "Images/tit.jpeg",
+        "title": "Team Collaboration",
+        "category": "2025",
+        "description": "Students working together on innovative solutions"
+      },
+      {
+        "id": 3,
+        "type": "image",
+        "src": "Images/tit.jpeg",
+        "title": "Coding Marathon",
+        "category": "2025",
+        "description": ""
+      },
+      {
+        "id": 4,
+        "type": "image",
+        "src": "Images/tit.jpeg",
+        "title": "Virtual Reality Demo",
+        "category": "projects",
+        "description": "Immersive experience project showcase"
+      }
+    ],
+    "featuredProjects": [
+    ],
+    "videoHighlight": {
+      "title": "TIT CODING CLUB 2025 Official Highlights",
+      "description": "Watch the best moments from our most successful event yet",
+      "thumbnail": "Images/tit.jpeg"
+    }
+  },
+  "sponsors": [
+    
+  ],
+  "navigation": [
+    { "label": "Home", "section": "home" },
+    { "label": "About", "section": "about" },
+    { "label": "Event", "section": "event" },
+    { "label": "Gallery", "section": "gallery" }
+  ],
+  "socialLinks": [
+    { "icon": "Twitter", "href": "#", "label": "Twitter" },
+    { "icon": "Github", "href": "#", "label": "GitHub" },
+    { "icon": "Linkedin", "href": "#", "label": "LinkedIn" },
+    { "icon": "Instagram", "href": "https://www.instagram.com/tittechnocratsgroup/", "label": "Instagram" }
+  ],
+  "footerLinks": {
+    "quickLinks": [
+      { "label": "Home", "section": "home" },
+      { "label": "About", "section": "about" },
+      { "label": "Event Details", "section": "event" },
+      { "label": "Gallery", "section": "gallery" }
+    ],
+    "resources": [
+      { "label": "Starter Guide", "href": "#" },
+      { "label": "API Documentation", "href": "#" },
+      { "label": "Design Assets", "href": "#" },
+      { "label": "Code Templates", "href": "#" },
+      { "label": "Mentorship", "href": "#" }
+    ],
+    "legal": [
+      { "label": "Code of Conduct", "href": "#" },
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms of Service", "href": "#" }
+    ]
+  }
+}
